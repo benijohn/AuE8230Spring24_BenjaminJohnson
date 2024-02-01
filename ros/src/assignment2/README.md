@@ -5,7 +5,9 @@ To run this code:
     first go to the directory ~/ros
     ```
         - run catkin_make  
+
         - run source devel/setup.bash  
+        
         - roslaunch assignment2 assignment.launch
     ```
 
