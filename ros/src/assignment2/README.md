@@ -15,6 +15,5 @@ To run this code:
 
     See the attached video for expected results.
 
-    [screenRecord.mkv](/video/screenRecord.mkv)
+https://github.com/benijohn/AuE8230Spring24_BenjaminJohnson/assets/56371602/c7adb268-d944-4843-ab02-d5339bf89bc7
 
-    <video src='screenRecord.mkv' width=180/>
