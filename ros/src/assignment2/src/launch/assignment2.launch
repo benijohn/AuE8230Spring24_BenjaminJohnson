@@ -1,0 +1,11 @@
+<launch>
+    <group ns="group">
+        <node pkg="turtlesim" type="turtlesim_node" name="turtlesim_node" output="screen"/>
+        <node pkg="assignment2" type="circle.py" name="circle" output="screen"/>
+    </group>
+    
+    <group ns="group2">    
+        <node pkg="turtlesim" type="turtlesim_node" name="turtlesim_node2" output="screen"/>
+        <node pkg="assignment2" type="square.py" name="square" output="screen" />
+    </group>    
+</launch>
