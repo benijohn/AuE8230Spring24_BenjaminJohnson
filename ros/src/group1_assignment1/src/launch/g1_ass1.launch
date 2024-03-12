@@ -1,0 +1,11 @@
+<launch>
+    <include file="$(find turtlebot3_gazebo)/launch/turtlebot3_empty_world.launch" />
+
+    <group ns="g1">
+        <node pkg="group1_assignment1" type="square.py" name="circle" output="screen"/>
+    </group>
+    
+ 
+</launch>
+
+
