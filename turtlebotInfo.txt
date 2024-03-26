@@ -1,0 +1,2 @@
+MAC Address: e4:5f:01:09:ae:de
+IPV4 Address: (resmedianet) 10.121.0.136
